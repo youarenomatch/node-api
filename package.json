@@ -20,6 +20,7 @@
   "homepage": "https://github.com/youarenomatch/node-api#readme",
   "dependencies": {
     "dotenv": "^9.0.2",
-    "koa": "^2.13.1"
+    "koa": "^2.13.1",
+    "koa-router": "^10.1.1"
   }
 }
